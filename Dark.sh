@@ -27,6 +27,9 @@ sleep 3
 sh install.sh
 else
 echo $cy"ACCES DENIED!!"
+sleep 1
+echo $i"Gapunya Username sama Password ya?? Beli makanya!"
+sleep 2
 echo $i"Silahkan hubungi gua untuk membeli username & password"
 sleep 3
 xdg-open http://api.whatsapp.com/send?phone=6282386234828&text=*MiSetya%20Saya%20Mau%20Membeli%20Username%20&%20Password%20Dark%20FB%20Installer
