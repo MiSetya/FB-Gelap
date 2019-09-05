@@ -29,6 +29,6 @@ else
 echo $cy"ACCES DENIED!!"
 echo $i"Silahkan hubungi gua untuk membeli username & password"
 sleep 3
-xdg-open http://wa.me/6282386234828
+xdg-open http://api.whatsapp.com/send?phone=6282386234828&text=*MiSetya%20Saya%20Mau%20Membeli%20Username%20&%20Password%20Dark%20FB%20Installer
 exit
 fi
