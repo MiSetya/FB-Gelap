@@ -27,6 +27,8 @@ sleep 3
 sh install.sh
 else
 echo $cy"ACCES DENIED!!"
-sleep 2
+echo $i"Silahkan hubungi gua untuk mendapatkan username & password"
+sleep 3
+xdg-open http://wa.me/6282386234828
 exit
 fi
