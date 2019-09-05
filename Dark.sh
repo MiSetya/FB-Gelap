@@ -20,14 +20,14 @@ read -p "#--•> " user
 echo $i"#--Masukan Password!"
 read -p "#--•> " pass
 
-if [ $user = 'FB' ] | [ $pass = 'Gelap' ]
+if [ $user = 'MiSetya' ] | [ $pass = 'Dark' ]
 then
-echo $cy"LOGIN SUCCESFUL"
+echo $cy"LOGIN SUCCESFULL"
 sleep 3
 sh install.sh
 else
 echo $cy"ACCES DENIED!!"
-echo $i"Silahkan hubungi gua untuk mendapatkan username & password"
+echo $i"Silahkan hubungi gua untuk membeli username & password"
 sleep 3
 xdg-open http://wa.me/6282386234828
 exit
