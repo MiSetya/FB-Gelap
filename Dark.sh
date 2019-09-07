@@ -29,9 +29,13 @@ else
 echo $cy"ACCES DENIED!!"
 sleep 1
 echo $i"Gapunya Username sama Password ya?? Beli makanya!"
-sleep 2
-echo $i"Silahkan hubungi gua untuk membeli username & password"
 sleep 3
+echo
+echo $i"Murah kok cuma 10k akses permanen :)"
+sleep 3
+echo
+echo $i"Silahkan hubungi gua untuk membeli username & password"
+sleep 5
 xdg-open http://wa.me/=6282386234828
 exit
 fi
