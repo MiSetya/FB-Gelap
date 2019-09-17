@@ -1,7 +1,6 @@
 # Kumpulan tools dark FB
 # Coded By. MiSetya
-# Mau recode? izin 0823-8623-4828
-# kalo bisa jangan recode
+# Mau recode? pfftt.. sampah!!
 
 clear
 bi='\033[34;1m' #biru
@@ -28,7 +27,7 @@ echo $me"<[∆"      $i"Kumpulan Dark FB"
 echo $me"<[∆"      $i"Berbagai Jenis"
 echo $me"<[∆"  $cy"Author : MiSetya"
 echo $me"<[∆"  $cy"Team   : Light Cyber Indonesia"
-echo $me"<[∆"  $pu"Contact: 0823-8623-4828"
+echo $me"<[∆"  $pu"Contact: 0822-8413-8013"
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
 echo
 sleep 3
