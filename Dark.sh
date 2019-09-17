@@ -34,6 +34,6 @@ echo $i"Murah kok cuma 10k akses permanen :)"
 sleep 3
 echo $i"Silahkan hubungi gua untuk membeli username & password"
 sleep 5
-xdg-open http://wa.me/=6282386234828
+xdg-open http://wa.me/=6282284138013
 exit
 fi
